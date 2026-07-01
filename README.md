@@ -26,6 +26,11 @@ A simple age calculator built with Python(Tkinter) that calculates the exact age
 ```bash 
 python main.py
 ```
+# Preview 
+
+<p align="center">
+<img src="images/preview.png"width="600">
+</p>
 
 ## Author 
 Saleh Rs
