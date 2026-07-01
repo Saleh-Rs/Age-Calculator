@@ -28,7 +28,9 @@ python main.py
 ```
 # Preview 
 
-! [Preview](images/preview.png)
+<p align="center">
+<img src="images/preview.png"width="600">
+</p>
 
 ## Author 
 Saleh Rs
